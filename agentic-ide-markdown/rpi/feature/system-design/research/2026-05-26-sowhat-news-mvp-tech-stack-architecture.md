@@ -1187,3 +1187,5 @@ The five questions raised in Revision 1 have been resolved. The architecture abo
 - Firebase Cloud Messaging quotas (free, unlimited messages, 600K/min project quota): <https://firebase.google.com/docs/cloud-messaging/throttling-and-quotas>, <https://www.buildmvpfast.com/tools/api-pricing-estimator/firebase-fcm>
 - RevenueCat pricing (free up to $2,500 MTR, 1% above): <https://www.revenuecat.com/pricing>, <https://lushbinary.com/blog/revenuecat-integration-guide-native-vs-revenuecat-2026/>, <https://github.com/RevenueCat/purchases-android>
 - Render / Railway / Fly.io comparisons: <https://render.com/articles/platforms-with-a-real-free-tier-for-developers-in-2026>, <https://techsy.io/en/blog/railway-vs-render-vs-fly-io>
+
+---
